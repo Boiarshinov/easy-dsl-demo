@@ -13,3 +13,4 @@ Easy DSL - подход к написанию небольших (в преде�
 - [Design a Fluent API in Java](https://dzone.com/articles/java-fluent-api-design)
 - [Developing a Fluent API in Java](https://www.jrebel.com/blog/developing-a-fluent-api-in-java)
 - Martin Fowler: [FluentInterface](https://www.martinfowler.com/bliki/FluentInterface.html)
+- Использование дженериков для улучшения DSL: [Emulating "self types" using Java Generics to simplify fluent API implementation](http://web.archive.org/web/20130721224442/http:/passion.forco.de/content/emulating-self-types-using-java-generics-simplify-fluent-api-implementation)
